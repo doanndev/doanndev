@@ -45,8 +45,8 @@
 <h2 align="center">< :computer: GitHub Profile Stats /></h2>
 
 <div align="center">
-  <img alt="Doanndev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=doanndev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Doanndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanndev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <!-- <img alt="Doanndev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=doanndev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Doanndev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanndev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/> -->
   <img alt="Doanndev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=doanndev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
 </div>
 
@@ -58,7 +58,7 @@
   <a href="https://github.com/luan-thnh/todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=todo-list&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
   <a href="https://github.com/luan-thnh/foodyar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=foodyar&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
   <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
-  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a> -->
+  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" /></a>
 </div> -->
 
 <h2 align="center">< 🐍 Just a snake eating my contributions /></h2>
