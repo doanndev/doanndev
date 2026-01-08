@@ -38,9 +38,7 @@
 
 <h2 align="center">< :fire: Streak Stats /> </h2>
 
-<p align="center">
-      <a href="https://github.com/doanndev"><img src="ttps://readme-streak-stats.vercel.app?user=doanndev&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-</p> 
+[![GitHub Streak](https://readme-streak-stats.vercel.app?user=doanndev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2 align="center">< :computer: GitHub Profile Stats /></h2>
 
