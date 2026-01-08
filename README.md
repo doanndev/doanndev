@@ -36,11 +36,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase" /><br>
 </div>
 
-<!-- <h2 align="center">< :fire: Streak Stats /> </h2>
+<h2 align="center">< :fire: Streak Stats /> </h2>
 
 <p align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=doanndev&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
-</p> -->
+      <a href="https://github.com/doanndev"><img src="ttps://readme-streak-stats.vercel.app?user=doanndev&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p> 
 
 <h2 align="center">< :computer: GitHub Profile Stats /></h2>
 
