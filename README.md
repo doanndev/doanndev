@@ -39,7 +39,8 @@
 <h2 align="center">< :fire: Streak Stats /> </h2>
 
 <p align="center">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=doanndev&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="doanndev's streak" src="https://streak-stats.demolab.com/?user=doanndev&theme=monokai-metallian&hide_border=true"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=doanndev)](https://git.io/streak-stats)
 </p>
 
 <h2 align="center">< :computer: GitHub Profile Stats /></h2>
