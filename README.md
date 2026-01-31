@@ -1,27 +1,13 @@
 <div align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"/>
+  <img src="./github-header-banner.png"/>
 </div>
 
 <div>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-  <div id="badges" align="center">
-      <a href="https://www.linkedin.com/" style="text-decoration: none">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    <a href="https://www.youtube.com/" style="text-decoration: none">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="http://facebook.com/hiim.derkal/" style="text-decoration: none">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <div id="header" align="center">
-      <img src="https://komarev.com/ghpvc/?username=yluan-thanh&style=flat-square&color=blue" alt=""/>
-    </div>
 
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=700&size=32&pause=1000&color=C64F6D&center=true&vCenter=true&width=435&lines=%3CHi!+Im+Doanndev+%2F%3E;%3CIm+Full+Stack+Developer+%2F%3E;%3CNice+to+meet+you!+%2F%3E" alt="Typing SVG" /></a>
+  <div width="100%">
+      <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+sans&weight=700&size=32&pause=1000&color=C64F6D&center=true&vCenter=true&width=435&lines=%3CHi!+Im+Doanndev+%2F%3E;%3CIm+Full+Stack+Developer+%2F%3E;%3CNice+to+meet+you!+%2F%3E" alt="Typing SVG" /></a>
+  </div>
 
   </div>
 </div>
